@@ -1,0 +1,11 @@
+import { View, Text } from 'react-native'
+import React from 'react'
+import { style } from './styles'
+
+export default function AddPruduct() {
+  return (
+    <View>
+      <Text>AddPruduct</Text>
+    </View>
+  )
+}
